@@ -12,11 +12,11 @@ This project implements an in-memory key-value database with transaction support
 This mimics how transactions work in relational databases, ensuring consistency and preventing dirty writes.
 
 ## How to Run
-	1.	Make sure Python 3 is installed on your system.
-	2.	Save the code into a file named data_process.py (or any name you prefer).
-	3.	Open a terminal in the directory containing the file and run:
-          python3 data_process.py
-  4.	The script includes test cases that demonstrate the expected behavior of the database and transactions.
+1. Make sure Python 3 is installed on your system.
+2. Save the code into a file named data_process.py (or any name you prefer).
+3. Open a terminal in the directory containing the file and run:
+   	"python3 data_process.py"
+4. The script includes test cases that demonstrate the expected behavior of the database and transactions.
 
 ## Example Output
 
