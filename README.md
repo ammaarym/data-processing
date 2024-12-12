@@ -33,12 +33,19 @@ Running the code produces output similar to this:
 ## Improvements for the Future
 
 To make this assignment more robust and “official”:
-	1.	Clarifications: Explain that only one transaction can be active at a time and how nested transactions (if implemented) should behave.
-	2.	Features: Add support for advanced features like:
-	•	Nested or multiple transactions.
-	•	Batch operations.
-	•	Logging changes for debugging.
-	3.	Testing: Include a built-in test suite for automated grading.
-	4.	Grading Enhancements: Offer bonus points for implementing optional features like logging or edge-case handling (e.g., handling invalid inputs or conflicts).
+1. Clarifications
+    Explain that only one transaction can be active at a time.
+    Specify how nested transactions (if implemented) should behave.
+2. Features
+   Add support for advanced features like:
+   Nested or multiple transactions.
+   Batch operations.
+   Logging changes for debugging.
+3. Testing
+   Include a built-in test suite for automated grading to verify functionality.
+4. Grading Enhancements
+   Offer bonus points for implementing optional features, such as:
+   Logging transaction changes.
+   Handling edge cases (e.g., invalid inputs or conflicts).
 
 These changes would make the assignment clearer, more challenging, and better suited for grading in an academic setting.
