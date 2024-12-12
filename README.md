@@ -15,12 +15,15 @@ This mimics how transactions work in relational databases, ensuring consistency 
 1. Make sure Python 3 is installed on your system.
 2. Save the code into a file named data_process.py (or any name you prefer).
 3. Open a terminal in the directory containing the file and run:
-   	"python3 data_process.py"
-4. The script includes test cases that demonstrate the expected behavior of the database and transactions.
+```
+   	python3 data_process.py
+```
+5. The script includes test cases that demonstrate the expected behavior of the database and transactions.
 
 ## Example Output
 
 Running the code produces output similar to this:
+```
   None
   Transaction not in progress. Use begin_transaction() first.
   5
@@ -29,6 +32,7 @@ Running the code produces output similar to this:
   No active transaction to rollback.
   None
   None
+```
 
 ## Improvements for the Future
 
