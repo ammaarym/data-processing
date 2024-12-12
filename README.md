@@ -46,6 +46,6 @@ To make this assignment more robust and “official”:
 4. Grading Enhancements
    Offer bonus points for implementing optional features, such as:
    Logging transaction changes.
-   Handling edge cases (e.g., invalid inputs or conflicts).
+   Handling edge cases.
 
 These changes would make the assignment clearer, more challenging, and better suited for grading in an academic setting.
