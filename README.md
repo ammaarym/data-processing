@@ -3,11 +3,11 @@
 ## Overview
 
 This project implements an in-memory key-value database with transaction support. It includes the following operations:
-	- get(key): Retrieve the value for a given key.
- 	- put(key, value): Insert or update a key-value pair (requires an active transaction).
-	- begin_transaction(): Start a new transaction.
-	- commit(): Apply all changes made within the transaction.
-	- rollback(): Revert all changes made during the transaction.
+- get(key): Retrieve the value for a given key.
+- put(key, value): Insert or update a key-value pair (requires an active transaction).
+- begin_transaction(): Start a new transaction.
+- commit(): Apply all changes made within the transaction.
+- rollback(): Revert all changes made during the transaction.
 
 This mimics how transactions work in relational databases, ensuring consistency and preventing dirty writes.
 
